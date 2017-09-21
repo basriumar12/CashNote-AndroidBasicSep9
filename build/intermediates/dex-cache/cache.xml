@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/5070b831c6b3ceaa3f3984babdc239a23a1148a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/home/khilman/Documents/MyFirstTrained/minggu-pertama/CashNoteApp/app/build/intermediates/pre-dexed/release/classes_b8904fc9ea4f477818a8e2f5e37283fa41ded870.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/home/khilman/Documents/MyFirstTrained/minggu-pertama/CashNoteApp/app/build/intermediates/pre-dexed/release/converter-gson-2.3.0_86930cba7d9d14e20916573be6071f5f0bcedbb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/907a414c7ecc465622b8f2a7b3379ae4dbc8ba14/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/home/khilman/Documents/MyFirstTrained/minggu-pertama/CashNoteApp/app/build/intermediates/pre-dexed/release/classes_74a46635dbe156d40237d3b9d75e954e5384bd61.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/khilman/Documents/MyFirstTrained/minggu-pertama/CashNoteApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/khilman/Documents/MyFirstTrained/minggu-pertama/CashNoteApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_725d9d61f3aa6f65306e3988aa53788219765778/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/home/khilman/Documents/MyFirstTrained/minggu-pertama/CashNoteApp/app/build/intermediates/pre-dexed/release/retrofit-2.3.0_4e20a17ebfe41bde5a423223ac7dff4c6bf4785c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/khilman/Documents/MyFirstTrained/minggu-pertama/CashNoteApp/app/build/intermediates/pre-dexed/release/gson-2.7_c246be005a3d4eaf1ef0c541329bb90f5b52fc9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/cca2c757c6cefc34f14608495ccfac507435b91d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/khilman/Documents/MyFirstTrained/minggu-pertama/CashNoteApp/app/build/intermediates/pre-dexed/release/classes_59f408cd4a118302e4b009e9d44c2946174f03cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/home/khilman/Documents/MyFirstTrained/minggu-pertama/CashNoteApp/app/build/intermediates/pre-dexed/release/butterknife-annotations-8.8.1_21c6da295415df979c71d62c8fb3c116f0dd076c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/home/khilman/Documents/MyFirstTrained/minggu-pertama/CashNoteApp/app/build/intermediates/pre-dexed/release/okhttp-3.8.0_288b0c124594cba37fbfc175e85e4b51e771ac17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/khilman/Documents/MyFirstTrained/minggu-pertama/CashNoteApp/app/build/intermediates/pre-dexed/release/okio-1.13.0_e7ea4e486c0a517743326a43c02b22b521807cd1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/khilman/Documents/MyFirstTrained/minggu-pertama/CashNoteApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cd82517055846eee24ffe2ca8bbb28a13b7b3c89">
+        <dex dex="/home/khilman/Documents/MyFirstTrained/minggu-pertama/CashNoteApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_38cd2fc453a801ed0e81669401ea197338807e9d/classes.dex" />
+    </item>
+
+</items>

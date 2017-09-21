@@ -1,0 +1,7 @@
+#Mon Sep 18 09:12:52 WIB 2017
+base.0=/home/khilman/Documents/MyFirstTrained/minggu-pertama/CashNoteApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_725d9d61f3aa6f65306e3988aa53788219765778
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/khilman/Documents/MyFirstTrained/minggu-pertama/CashNoteApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_38cd2fc453a801ed0e81669401ea197338807e9d/classes.dex
+base.1=/home/khilman/Documents/MyFirstTrained/minggu-pertama/CashNoteApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_38cd2fc453a801ed0e81669401ea197338807e9d
+file.0=/home/khilman/Documents/MyFirstTrained/minggu-pertama/CashNoteApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_725d9d61f3aa6f65306e3988aa53788219765778/classes.dex
