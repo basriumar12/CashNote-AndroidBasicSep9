@@ -43,7 +43,11 @@ public class TampilCatatanActivity extends AppCompatActivity {
         // ambil data dari web service
         getCatatan();
     }
-
+    @Override
+    protected void onResume() {
+        super.onResume();
+        getCatatan();
+    }
     private void getCatatan() {
         // init retrofitnya
         ApiServices api = InitLibrary.getInstance();
