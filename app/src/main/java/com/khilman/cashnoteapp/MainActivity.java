@@ -11,7 +11,7 @@ import butterknife.ButterKnife;
 import butterknife.OnClick;
 
 public class MainActivity extends AppCompatActivity {
-
+    //varoabel
     @BindView(R.id.imgTambah)
     ImageView imgTambah;
     @BindView(R.id.imgLihatCatatan)
