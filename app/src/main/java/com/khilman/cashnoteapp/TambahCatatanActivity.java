@@ -35,7 +35,7 @@ public class TambahCatatanActivity extends AppCompatActivity implements DatePick
     TextView edtTanggal;
     @BindView(R.id.btnSimpan)
     Button btnSimpan;
-
+        //metohd
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
