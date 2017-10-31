@@ -34,7 +34,7 @@ public class TampilCatatanActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_tampil_catatan);
         ButterKnife.bind(this);
-
+        //tambah
         // inisialisasi
         layoutManager = new LinearLayoutManager(this);
         // set LM ke recyclerview
